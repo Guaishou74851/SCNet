@@ -1,4 +1,6 @@
-# SCNet
+# Self-Supervised Scalable Deep Compressed Sensing (SCNet)
+
+Our paper is available at https://arxiv.org/abs/2308.13777.
 
 Our supplementary material is available at https://drive.google.com/file/d/1kotl9aRrOnw8D-RToFmdrkP3nhaR6eCJ/view?usp=sharing.
 
