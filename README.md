@@ -1,6 +1,7 @@
 # Self-Supervised Scalable Deep Compressed Sensing (IJCV 2024) [PyTorch]
 
-[![icon](https://img.shields.io/badge/ArXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2308.13777) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Guaishou74851.SCNet)
+[![icon](https://img.shields.io/badge/Springer-Paper-<COLOR>.svg)](https://link.springer.com/article/10.1007/s11263-024-02209-1
+) [![icon](https://img.shields.io/badge/ArXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2308.13777) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Guaishou74851.SCNet)
 
 [Bin Chen](https://scholar.google.com/citations?hl=en&user=aZDNm98AAAAJ), [Xuanyu Zhang](https://xuanyuzhang21.github.io/), Shuai Liu, [Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ)†, and [Jian Zhang](https://jianzhang.tech/)†
 
@@ -10,7 +11,7 @@
 
 *School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), Shenzhen, China.*
 
-† Corresponding author
+† Corresponding authors
 
 Accepted for publication in [International Journal of Computer Vision](https://link.springer.com/journal/11263) (IJCV) 2024.
 
@@ -29,9 +30,9 @@ Compressed sensing (CS) is a promising tool for reducing sampling costs. Current
 ## Environment
 
 ```shell
-torch.__version__ == '2.2.1+cu121'
-numpy.__version__ == '1.24.4'
-skimage.__version__ == '0.21.0'
+torch.__version__ == "2.2.1+cu121"
+numpy.__version__ == "1.24.4"
+skimage.__version__ == "0.21.0"
 ```
 
 ## Test
