@@ -2,7 +2,7 @@
 
 [![icon](https://img.shields.io/badge/ArXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2308.13777) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Guaishou74851.SCNet)
 
-[Bin Chen](https://scholar.google.com/citations?hl=en&user=aZDNm98AAAAJ), [Xuanyu Zhang](https://xuanyuzhang21.github.io/), Shuai Liu, [Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ), and [Jian Zhang](https://jianzhang.tech/)†
+[Bin Chen](https://scholar.google.com/citations?hl=en&user=aZDNm98AAAAJ), [Xuanyu Zhang](https://xuanyuzhang21.github.io/), Shuai Liu, [Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ)†, and [Jian Zhang](https://jianzhang.tech/)†
 
 *School of Electronic and Computer Engineering, Peking University, Shenzhen, China.*
 
