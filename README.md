@@ -27,6 +27,8 @@ Compressed sensing (CS) is a promising tool for reducing sampling costs. Current
 
 ![spi_optics](figs/spi_optics.png)
 
+![comp](figs/comp.png)
+
 ## Environment
 
 ```shell
