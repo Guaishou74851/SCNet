@@ -61,9 +61,11 @@ If you find the code helpful in your research or work, please cite the following
 
 ```latex
 @article{chen2024self,
-title={Self-Supervised Scalable Deep Compressed Sensing},
+  title={Self-supervised Scalable Deep Compressed Sensing},
   author={Chen, Bin and Zhang, Xuanyu and Liu, Shuai and Zhang, Yongbing and Zhang, Jian},
   journal={International Journal of Computer Vision},
+  pages={1--36},
   year={2024},
+  publisher={Springer}
 }
 ```
