@@ -47,7 +47,7 @@ The reconstructed images will be in `./result`.
 
 ## Train
 
-Download [Training_Data.mat](https://drive.google.com/file/d/14CKidNsC795vPfxFDXa1FH9QuNJKE3cp) and put it into `./data`, then run:
+Download `Training_Data.mat` from [Google Drive](https://drive.google.com/file/d/14CKidNsC795vPfxFDXa1FH9QuNJKE3cp) or [PKU Disk (北大网盘)](https://disk.pku.edu.cn/anyshare/link/AA2856882B7621432B826D00CE1C0E2E5B) and put it into `./data`, then run:
 
 ```shell
 python train.py --max_ratio=0.1/0.3/0.5
