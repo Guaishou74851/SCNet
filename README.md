@@ -1,4 +1,4 @@
-# Self-Supervised Scalable Deep Compressed Sensing (IJCV 2024) [PyTorch]
+# (IJCV 2024) Self-Supervised Scalable Deep Compressed Sensing [PyTorch]
 
 [![icon](https://img.shields.io/badge/Springer-Paper-<COLOR>.svg)](https://link.springer.com/article/10.1007/s11263-024-02209-1
 ) [![icon](https://img.shields.io/badge/ArXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2308.13777) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Guaishou74851.SCNet)
