@@ -15,11 +15,13 @@
 
 Accepted for publication in [International Journal of Computer Vision](https://link.springer.com/journal/11263) (IJCV) 2024.
 
-## Abstract
+⭐ If SCNet is helpful to you, please star this repo. Thanks! 🤗
+
+## 📝 Abstract
 
 Compressed sensing (CS) is a promising tool for reducing sampling costs. Current deep neural network (NN)-based CS approaches face the challenges of collecting labeled measurement-ground truth (GT) data and generalizing to real applications. This paper proposes a novel **S**elf-supervised s**C**alable deep CS method, comprising a deep **L**earning scheme called **SCL** and a family of **Net**works named **SCNet**, which does not require GT and can handle arbitrary sampling ratios and matrices once trained on a partial measurement set. Our SCL contains a dual-domain loss and a four-stage recovery strategy. The former encourages a cross-consistency on two measurement parts and a sampling-reconstruction cycle-consistency regarding arbitrary ratios and matrices to maximize data utilization. The latter can progressively leverage the common signal prior in external measurements and internal characteristics of test samples and learned NNs to improve accuracy. SCNet combines both the explicit guidance from optimization algorithms and the implicit regularization from advanced NN blocks to learn a collaborative signal representation. Our theoretical analyses and experiments on simulated and real captured data, covering 1-/2-/3-D natural and scientific signals, demonstrate the effectiveness, superior performance, flexibility, and generalization ability of our method over existing self-supervised methods and its significant potential in competing against many state-of-the-art supervised methods. Code is available at https://github.com/Guaishou74851/SCNet.
 
-## Overview
+## 🍭 Overview
 
 ![scl](figs/scl.png)
 
@@ -29,7 +31,7 @@ Compressed sensing (CS) is a promising tool for reducing sampling costs. Current
 
 ![comp](figs/comp.png)
 
-## Environment
+## ⚙ Environment
 
 ```shell
 torch.__version__ == "2.2.1+cu121"
@@ -37,7 +39,7 @@ numpy.__version__ == "1.24.4"
 skimage.__version__ == "0.21.0"
 ```
 
-## Test
+## ⚡ Test
 
 ```shell
 python test.py --max_ratio=0.1/0.3/0.5 --testset_name=Set11/CBSD68/Urban100/DIV2K
@@ -47,7 +49,7 @@ The reconstructed images will be in `./result`.
 
 For easy comparison, test results of various existing image CS methods are available on [Google Drive](https://drive.google.com/drive/folders/1Lif_7N_bCyILFLac5JcOtJ9cWpGBNVCd) and [PKU Disk](https://disk.pku.edu.cn/link/AA1C2D8A08050744449CBFCAB51A846B2D).
 
-## Train
+## 🔥 Train
 
 Download `Training_Data.mat` from [Google Drive](https://drive.google.com/file/d/14CKidNsC795vPfxFDXa1FH9QuNJKE3cp) or [PKU NetDisk (北大网盘)](https://disk.pku.edu.cn/anyshare/link/AA2856882B7621432B826D00CE1C0E2E5B) and put it into `./data`, then run:
 
@@ -57,7 +59,7 @@ python train.py --max_ratio=0.1/0.3/0.5
 
 The log and model files will be in `./log` and `./weight`, respectively.
 
-## Citation
+## 🎓 Citation
 
 If you find the code helpful in your research or work, please cite the following paper:
 
